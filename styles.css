@@ -1,0 +1,170 @@
+.top { color: white; background-color: rgb(29, 28, 75);
+
+    display: flex;
+    justify-content: space-evenly
+  
+  }
+  
+  .header { 
+  
+    width: 350px;
+    display: flex; margin-left: -60px;
+  
+  }
+  
+  .top-right { 
+  
+    display: flex; justify-content: center;
+    align-items: center; width: 400px;
+   
+  
+  }
+  .links { display: flex;
+  
+  }
+  .links div {
+  padding: 5px;
+  }
+  
+  
+  .top-mid { color: white; background-color: rgb(29, 28, 75);
+  
+    display: flex;
+    justify-content: space-evenly;
+  
+  }
+  .mid-left { 
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-wrap: wrap;
+    width: 350px;
+  
+  }
+  
+  .mid-right {
+  
+    display: flex; align-items: flex-end;
+  }
+  
+  .h1-mid {
+    margin-left: -30px;
+  }
+  button {
+    border: none;
+    border-radius: 8px;
+    background: rgb(69, 69, 245);
+    color: white;
+    padding: 8px 24px;
+    height: 40px; width: 100px;
+    margin-left: -250px;
+  }
+  
+  .para {
+    margin-top: -50px
+  
+  }
+  
+  img {
+  
+  }
+  
+  .mid-title {
+    display: flex;
+    justify-content: center;
+  }
+  .boxes {
+    background: white;
+  
+    height: 140px;
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+  }
+  
+  .boxes div {
+    background: white;
+    border: 4px solid blue;
+    width: 120px;
+    height: 120px;
+  
+  }
+  
+  .box-text {
+    background: white;
+  
+    height: 140px;
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center; text-align: center;
+    gap: 50px;
+  
+  
+  }
+  
+  .box-text div {
+  
+    width: 120px;
+    height: 120px;
+    margin-top: -50px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  }
+  
+  .thor {     display: flex; flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+  
+    background-color: rgb(216, 210, 210);
+  
+  }
+  .thor1 { display: flex;
+  
+  
+  }
+  .thor2 {display: flex; align-self: flex-end;
+  margin-top: -25px;
+  
+  }
+  .bot-mid { 
+    display: flex;
+    justify-content: center;
+  flex-grow: 1; flex-shrink: 1; color: white;
+  
+  }
+  .mid-button { display: flex;
+    background-color: rgb(84, 84, 252);
+  
+    width: 900px; margin: 50px; padding: 20px; padding-left: 40px;
+    padding-right: 40px;
+    justify-content: space-between;
+  }
+  .lbot-mid { display: flex; margin: -16px;
+  
+    flex-wrap: wrap; width: 200px;
+  
+  }
+  .ltmid-button { margin-bottom: -16px;
+  }
+  .lbmid-button { margin-top: -16px;     flex-wrap: wrap; width: 400px;
+  }
+  
+  .rmid-button { display: flex;
+    flex-shrink: 1; flex-grow: 1 0;
+    border: 30px;
+    border-color: white;
+    background: rgb(69, 69, 245);
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .vbottom { display: flex; color: white;
+    height: 100px;
+    background-color: rgb(2, 2, 73);
+    justify-content: center; align-items: center;
+  
+  }
